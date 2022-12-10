@@ -7,19 +7,19 @@ import Work from "./Work";
 function App() {
   const myWork = [
     {
-      image: "public/imagen 1.png",
+      image: "/imagen 1.jpg",
       name: "Angular Routing Project",
       technologies: ["Angular", "Netlify", "Github"],
       link: "https://github.com/emmanuelpinedac/ProyectoFinal",
     },
     {
-      image: "public/imagen 2.png",
+      image: "/imagen 2.jpg",
       name: "Medical Appointment Manager",
       technologies: ["React", "Javascript", "Bootstrap"],
       link: "https://github.com/emmanuelpinedac/tareaVite.git",
     },
     {
-      image: "public/imagen 3.png",
+      image: "/imagen 3.jpg",
       name: "VW Project",
       technologies: ["Vainilla", "Css", "Bootstrap"],
       link: "https://github.com/emmanuelpinedac/PROYECTO-VW.git",
@@ -34,9 +34,9 @@ function App() {
       <br /> <br />
       <br />
       <SobreMi />
-      <br id="myWork"/>
+      <br id="myWork" />
       <br />
-      <br  />
+      <br />
       <div id="worksTitle">
         <h2>
           <strong>myWork. </strong>
@@ -53,10 +53,10 @@ function App() {
       <Contact />
       <br id="contactMe" />
       <div id="icons">
-        <i id="icon" class="fa-brands fa-square-font-awesome-stroke"></i>
-        <i id="icon" class="fa-brands fa-react"></i>
-        <i id="icon" class="fa-brands fa-bootstrap"></i>
-        <i id="icon" class="fa-brands fa-css3"></i>
+        <i id="icon" className="fa-brands fa-square-font-awesome-stroke"></i>
+        <i id="icon" className="fa-brands fa-react"></i>
+        <i id="icon" className="fa-brands fa-bootstrap"></i>
+        <i id="icon" className="fa-brands fa-css3"></i>
       </div>
       <div id="footer">
         <p>© emmanuelPinedaCubero, Inc. 2022</p>

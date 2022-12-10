@@ -12,13 +12,13 @@ export default function SobreMi() {
         <br />
         <img
           id="miPicture"
-          src="public/imagen yo.jpg"
+          src="/imagen yo.jpg"
           alt="foto emmanuelPinedaCubero"
         />
         <br />
         <br />
         <h5 id="text">
-          I am a creative we developer and entreprenur, passionate about
+          I am a creative web developer and entreprenur, passionate about
           creating digital experiences that foster users to explore on my
           designs. My goal is to learn every day more for better projects. Take
           a look at my portfolio...
