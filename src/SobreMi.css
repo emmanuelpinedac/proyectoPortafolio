@@ -1,0 +1,20 @@
+#sobreMiContainer {
+  display: flex;
+  justify-content: center;
+}
+#sobreMiContainer2 {
+  flex-direction: column;
+  text-align: center;
+  width: 60%;
+}
+#hi {
+  color: #fff418;
+}
+#text {
+  color: #b8b6b6;
+}
+#miPicture {
+  width: 200px;
+  border-radius: 50%;
+  border: solid 5px rgb(255, 255, 255);
+}

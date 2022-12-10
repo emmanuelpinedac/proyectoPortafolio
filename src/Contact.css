@@ -1,0 +1,25 @@
+#contactTitle {
+  width: 100%;
+  padding: 30px;
+  color: #fff418;
+  font-family: "Courier New", Courier, monospace;
+}
+#contactContainer {
+  color: white;
+  height: 100px;
+  padding-left: 30px;
+}
+
+#contact {
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+i {
+  font-size: 40px;
+  color: #b8b6b6;
+}

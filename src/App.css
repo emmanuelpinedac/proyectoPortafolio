@@ -1,0 +1,24 @@
+#worksTitle {
+  width: 50%;
+  padding: 30px;
+  color: #fff418;
+
+  width: 100%;
+
+  font-family: "Courier New", Courier, monospace;
+}
+
+#icons {
+  display: flex;
+  justify-content: center;
+}
+#icon {
+  color: #fff418;
+  padding: 30px;
+}
+#footer {
+  display: flex;
+  justify-content: center;
+  color: #fff418;
+  padding-bottom: 300px;
+}
