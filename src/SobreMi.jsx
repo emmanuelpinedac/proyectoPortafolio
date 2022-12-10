@@ -12,7 +12,7 @@ export default function SobreMi() {
         <br />
         <img
           id="miPicture"
-          src="src/assets/imagen yo.jpg"
+          src="public/imagen yo.jpg"
           alt="foto emmanuelPinedaCubero"
         />
         <br />

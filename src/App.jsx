@@ -7,19 +7,19 @@ import Work from "./Work";
 function App() {
   const myWork = [
     {
-      image: "src/assets/imagen 1.png",
+      image: "public/imagen 1.png",
       name: "Angular Routing Project",
       technologies: ["Angular", "Netlify", "Github"],
       link: "https://github.com/emmanuelpinedac/ProyectoFinal",
     },
     {
-      image: "src/assets/imagen 2.png",
+      image: "public/imagen 2.png",
       name: "Medical Appointment Manager",
       technologies: ["React", "Javascript", "Bootstrap"],
       link: "https://github.com/emmanuelpinedac/tareaVite.git",
     },
     {
-      image: "src/assets/imagen 3.png",
+      image: "public/imagen 3.png",
       name: "VW Project",
       technologies: ["Vainilla", "Css", "Bootstrap"],
       link: "https://github.com/emmanuelpinedac/PROYECTO-VW.git",
